@@ -17,9 +17,8 @@ title: CSCI340 Blog
 email: wendellcasey1999@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a blog that will be updated for my CSCI340 Web Systems and Databases class.
-baseurl: "/csci340blog"
-# the subpath of your site, e.g. /blog
-url: "http://kaiyinfei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/csci340blog"# the subpath of your site, e.g. /blog
+url: "https://KaiYinfei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 没有一个
 github_username:  KaiYinfei
 
