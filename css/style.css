@@ -1066,6 +1066,13 @@ HEADER STYLING
       line-height: 1;
       letter-spacing: -3px;
       padding-left: 0; }
+
+    .header h3 {
+      font-size: 2em;
+      line-height: normal;
+      letter-spacing: normal;
+      padding-left: 0;
+    }
     .header nav {
       float: left;
       clear: left; }
