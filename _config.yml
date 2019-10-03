@@ -23,6 +23,8 @@ baseurl: "/csci340blog" # the subpath of your site, e.g. /blog
 url: "https://KaiYinfei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 没有一个
 github_username:  KaiYinfei
+include:
+  - "_img"
 
 # Build settings
 markdown: kramdown
